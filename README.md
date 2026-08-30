@@ -1,36 +1,61 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Malabar Table
+
+A modern restaurant website concept inspired by the flavors and visual culture of Malabar, Kerala.
+Built as a responsive frontend project using Next.js, TypeScript, Tailwind CSS, and shadcn/ui.
+
+## Tech Stack
+
+* Next.js
+* TypeScript
+* Tailwind CSS
+* shadcn/ui
+* Lucide React
+* Next/Image
+* Next/Font
+
+## Features
+
+* Responsive design
+* Restaurant hero section
+* Featured dishes
+* Menu preview
+* Full menu page
+* Restaurant story section
+* Food and restaurant gallery
+* Testimonials
+* Location and opening hours
+* Contact / reservation CTA
+* Mobile navigation
+* SEO metadata
 
 ## Getting Started
 
-First, run the development server:
+Clone the repository:
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+```git clone https://github.com/vaifav/malabar-table.git
+cd malabar-table
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Install dependencies:
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+```bun install
+```
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+Run the development server:
 
-## Learn More
+```bun dev
+```
 
-To learn more about Next.js, take a look at the following resources:
+`Open http://localhost:3000 in your browser`.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Project Status
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+🚧 Currently under development.
 
-## Deploy on Vercel
+## Live Demo
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+Coming soon.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## Author
+
+Built by **Vaifav** as a frontend portfolio project.
