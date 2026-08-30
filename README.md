@@ -38,12 +38,14 @@ cd malabar-table
 
 Install dependencies:
 
-```bun install
+```bash
+bun install
 ```
 
 Run the development server:
 
-```bun dev
+```bash
+bun dev
 ```
 
 `Open http://localhost:3000 in your browser`.
